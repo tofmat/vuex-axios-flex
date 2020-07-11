@@ -2,7 +2,7 @@
   <div id="app">
     <div class="container">
       <addTodo />
-      <filter-todo />
+      <filterTodo />
       <Todos />
     </div>
   </div>
